@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [Vulnerability Management Lab)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Active Directory Home Lab](https://github.com/jensithao/ActiveDirectoryLab)
+  - [FIM (File Integrity Monitor)](https://github.com/jensithao/ActiveDirectoryLab)
+  - [Vulnerability Management Lab)]((https://github.com/jensithao/ActiveDirectoryLab))
 
 <h2>📺 Popular YouTube Videos</h2>
 
