@@ -3,15 +3,15 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/jensithao/ActiveDirectoryLab)
-  - [Vulnerability Management Lab)]((https://github.com/jensithao/ActiveDirectoryLab))
+  - [Vulnerability Management Lab]((https://github.com/jensithao/ActiveDirectoryLab))
 
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JensiThao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JensiThao | LinkedIn" width="222px" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" />]
 
-[linkedin]: www.linkedin.com/in/jensithao
+[linkedin.com/in/jensithao]((www.linkedin.com/in/jensithao))
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
