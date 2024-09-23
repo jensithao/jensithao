@@ -1,6 +1,6 @@
-<h1>Hi, I'm Jensi! <br/><a 
+<h1>Hi, I'm Jensi! <br/><a href="https://github.com/jensithao"> <a href="https://www.linkedin.com/in/jensithao/">Cybersecurity</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/jensithao/ActiveDirectoryLab)
   - [Vulnerability Management Lab]((https://github.com/jensithao/ActiveDirectoryLab))
@@ -9,9 +9,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JensiThao | LinkedIn" width="222px" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" />]
+[<img align="left" alt="JensiThao | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
-[linkedin.com/in/jensithao]((www.linkedin.com/in/jensithao))
+[linkedin]: https://linkedin.com/in/jensithao
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
