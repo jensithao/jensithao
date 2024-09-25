@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/jensithao/ActiveDirectoryLab)
-  - [Vulnerability Management Lab]((https://github.com/jensithao/VulnerabilityManagementLab))
+  - [Vulnerability Management Lab](https://github.com/jensithao/VulnerabilityManagementLab)
 
 
 <h2> 🤳 Connect with me:</h2>
