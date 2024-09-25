@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/jensithao/ActiveDirectoryLab)
+  - [Active Directory Home Lab](https://github.com/jensithao/ActiveDirectoryLab) <br/>
   - [Vulnerability Management Lab]((https://github.com/jensithao/Vulnerability-Management-Lab))
 
 
