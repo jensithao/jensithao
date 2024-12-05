@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/jensithao/ActiveDirectoryLab)
-  - [SOHO Project](link pending)
+  - [SOHO Project]([link pending](https://github.com/jensithao/SOHO-Project)
   - [Vulnerability Management Lab](https://github.com/jensithao/VulnerabilityManagementLab)
 
 
