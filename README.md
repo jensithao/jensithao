@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jensi! <br/><a href="https://github.com/jensithao"> <a href="https://www.linkedin.com/in/jensithao/">I'm looking to get into Cybersecurity</a></h1>
+<h1>Hi, I'm Jensi! <br/><a href="https://github.com/jensithao"> <a href="https://www.linkedin.com/in/jensithao/">I am pursuing a career in cybersecurity.</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
